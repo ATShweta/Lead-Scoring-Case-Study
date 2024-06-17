@@ -20,3 +20,21 @@ Additionally, the model should be adaptable to future changes in the company's r
 - ROC Curve
 - Prediction on test set
 - Precision- Recall
+
+## Goals of the Case Study
+
+This case study aims to achieve several objectives:
+
+1. <b>Build a Logistic Regression Model:</b>
+Develop a logistic regression model to assign a lead score ranging from 0 to 100 to each lead. This score will serve as a predictive indicator of the likelihood of lead conversion. A higher score indicates a "hot" lead with a high probability of conversion, while a lower score indicates a "cold" lead less likely to convert.
+
+2. <b>Utilize Lead Scores for Targeting Potential Leads:</b>
+Enable X Education to effectively target potential leads by using the assigned lead scores. By focusing efforts on leads with higher scores, the company can optimize its lead conversion efforts and improve overall sales efficiency.
+
+3. <b>Adaptability to Future Company Requirements:</b>
+Ensure that the logistic regression model can adapt to future changes in the company's requirements. This includes addressing additional problems or adjustments as outlined in a separate document provided by the company. The model should be flexible enough to accommodate new data, business scenarios, or evolving strategies.
+
+4. <b>Documentation and Recommendations:</b>
+Document the findings, model development process, and recommendations in a comprehensive presentation (PPT). This will include insights derived from the logistic regression model, adjustments made to meet specific company needs, and strategic recommendations based on the analysis conducted.
+
+By achieving these goals, X Education aims to enhance its lead management process, improve lead conversion rates, and ultimately achieve its business objectives more effectively.
